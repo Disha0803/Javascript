@@ -1,0 +1,27 @@
+#b1{
+    border-radius: 10px; 
+    margin-left: 50px;
+}
+#b2, #b3{
+    border-radius: 10px;
+    margin-left: 250px;
+}
+#i1, #i2, #i3{
+    display: none;
+    height: 300px;
+    width: 250px;
+    box-shadow: 0 0 25px black;
+    margin-top: 20px;
+}
+#i1{
+    float: left;
+    margin-left: 130px;
+}
+#i2{
+    float: left;
+    margin-left: 560px;
+}
+#i3{
+    float: right;
+    margin-right: 120px;
+}
